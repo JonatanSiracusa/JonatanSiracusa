@@ -2,7 +2,7 @@
 - 👀 I'm passionate about **Data Science, programming & finances**.
 - 🌱 I’m currently learning to become a *Data Scientist* and taking baby steps on this awesome Data Science world.
 - 💞️ I would feel very happy if any of my projects could help you.
-- 📫 You can find me on LinkedIn at https://www.linkedin.com/in/ajsiracusa/, Twitter at *@JonaSiracusaDev* and on Instagram at *@JonaSiracusaDev*.
+- 📫 You can find me on LinkedIn at <a href="https://www.linkedin.com/in/ajsiracusa/" target="_parent">/ajsiracusa</a>, Twitter at *@JonaSiracusaDev* and on Instagram at *@JonaSiracusaDev*.
 - 👋 Let's make this world a better place! Take care!
 
 <!---
