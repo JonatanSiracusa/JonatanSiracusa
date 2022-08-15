@@ -1,5 +1,5 @@
 - 👋 Hi! Hope you are doing well! I'm **@JonatanSiracusa**, *a nerd inside a finances guy body*.
-- 👀 I'm passionate about **Data Science, programming & finances**.
+- 👀 I'm passionate about **Data Science, programming & Finances**.
 - 🌱 I’m currently learning to become a *Data Scientist* and taking baby steps on this awesome Data Science world.
 - 💞️ I would feel very happy if any of my projects could help you.
 - 📫 You can find me on LinkedIn at *<a href="https://www.linkedin.com/in/ajsiracusa/" target="_parent">/ajsiracusa</a>*, Twitter at *<a href="https://twitter.com/JonaSiracusaDev/" target="_parent">@JonaSiracusaDev</a>* and on Instagram at *<a href="https://www.instagram.com/jonasiracusadev/" target="_parent">@JonaSiracusaDev</a>*.
